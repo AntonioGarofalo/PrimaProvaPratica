@@ -1,4 +1,4 @@
-print("Benvenuti al programma \"Moltiplicatore\"!")
+print("aBenvenuti al programma \"Moltiplicatore\"!")
 print("Restituisce in output il risultato di una moltiplicazione tra due numeri!\n")
 primo_valore = input("Inserisci il primo valore --> ")
 secondo_valore = input("Inserisci il secondo valore --> ")
